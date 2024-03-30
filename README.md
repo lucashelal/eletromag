@@ -23,16 +23,16 @@ This is the `eletromag` folder in the [lucashelal](https://github.com/lucashelal
 - [supp](supp): This directory contains supplementary files for the eletromag project.
 - [data](data): This directory contains the data files for the eletromag project.
 
-/**
- * In the `src` folder, you will find the following files:
- * 
- * - `c`: C source code files
- * - `cpp`: C++ source code files
- * - `julia`: Julia source code files
- * - `latex`: LaTeX source code files
- * - `py`: Python source code files
- * - `r`: R source code files
- */
+
+In the `src` folder, you will find the following files:
+  
+- `c`: C source code files
+- `cpp`: C++ source code files
+- `julia`: Julia source code files
+- `latex`: LaTeX source code files
+- `py`: Python source code files
+- `r`: R source code files
+
 
 ### Usage
 
