@@ -1,8 +1,6 @@
 # Welcome!
 
-/**
- * This is our `README.md` file.
-**/
+> This is our `README.md` file.
 
 # Eletromag
 
