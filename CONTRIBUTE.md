@@ -82,13 +82,6 @@ We follow Semantic Versioning (SemVer) for our releases. Each release version nu
 
 For example, if the current version is 2.3.1 and we add a new feature without breaking any existing functionality, the new version would be 2.4.0.
 
-## Conclusion
-
-We appreciate your contributions to our project! By following these guidelines, we can maintain a high-quality codebase and documentation. If you have any further questions or need assistance, please don't hesitate to ask.
-
-Happy coding!
-
-
 ## Documentation Conventions
 
 We strive to maintain clear and comprehensive documentation for our project. When contributing, please ensure that your code is well-documented and follows the [insert documentation conventions here]. This includes providing inline comments, writing docstrings, and documenting any public APIs.

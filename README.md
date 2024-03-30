@@ -40,7 +40,7 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/lucashelal/eletromag.git`
 2. Navigate to the `eletromag` folder: `cd eletromag`
-3. Run the code: $YOUR_CODE$
+3. Run the code: `YOUR_CODE`
 
 For more detailed instructions, please refer to the [CONFIG.md](CONFIG.md) file.
 
@@ -57,3 +57,4 @@ If you would like to contribute to this project, please follow these guidelines:
 For more detailed instructions, please refer to the [CONTRIBUTE.md](CONTRIBUTE.md) file.
 
 This project is licensed under the [MIT License](LICENSE).
+<h6> Lucas Helal, PhD. Porto Alegre, Brazil. CC BY 1.0. lucas@lucashelal.me </h6>
